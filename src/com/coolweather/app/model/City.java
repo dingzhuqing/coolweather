@@ -30,12 +30,12 @@ public class City {
 		this.cityCode = cityCode;
 	}
 
-	public int getProviceId() {
+	public int getProvinceId() {
 		return provinceId;
 	}
 
-	public void setProviceId(int proviceId) {
-		this.provinceId = proviceId;
+	public void setProvinceId(int provinceId) {
+		this.provinceId = provinceId;
 	}
 
 }
